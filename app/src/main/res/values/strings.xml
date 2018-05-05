@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="q_title">quantity</string>
+    <string name="q_value">0</string>
+    <string name="p_title">order summary</string>
+    <string name="p_value">€0.0</string>
+    <string name="opt_title">Toppings</string>
+    <string name="opt_1">Whipped cream</string>
+    <string name="opt_2">Chocolate shavings</string>
+    <string name="button_lbl">order</string>
+    <string name="button_lbl_inc">+</string>
+    <string name="button_lbl_dec">-</string>
+    <string name="sym_val">€</string>
+    <string name="disc_txt">Including your discount of </string>
+    <string name="user_name">Your name</string>
+    <string name="order_mail">orders@justjava.com</string>
+    <string name="order_subj">New order for</string>
+</resources>

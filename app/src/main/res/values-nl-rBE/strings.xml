@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="q_title">hoeveelheid</string>
+    <string name="q_value">0</string>
+    <string name="p_title">overzicht bestelling</string>
+    <string name="p_value">€0.0</string>
+    <string name="opt_title">Garnering</string>
+    <string name="opt_1">Crème frêche</string>
+    <string name="opt_2">Chocolade schaafsel</string>
+    <string name="button_lbl">bestel</string>
+    <string name="button_lbl_inc">+</string>
+    <string name="button_lbl_dec">-</string>
+    <string name="sym_val">€</string>
+    <string name="disc_txt">"Inclusief uw korting van "</string>
+    <string name="user_name">Uw naam</string>
+    <string name="order_mail">orders@justjava.com</string>
+    <string name="order_subj">Nieuwe bestelling voor</string>
+</resources>
